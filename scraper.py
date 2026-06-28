@@ -19,10 +19,10 @@ try:
     
     us_db = {}
     for ch in db_data:
-        if ch.get('country') == 'US' and ch.get('id'):
+        # Pull everything matching US or generic global identifiers
+        if (ch.get('country') == 'US' or '.us' in str(ch.get('id')).lower()) and ch.get('id'):
             clean_name = utils.default_process(ch['name'])
-            # Safeguard logo loading from both 'logo' and 'logo_url' keys
-            logo_img = ch.get('logo') or ch.get('logo_url') or ''
+            logo_img = ch.get('logo') or ''
             us_db[clean_name] = {
                 "id": ch['id'],
                 "logo": logo_img
@@ -36,6 +36,7 @@ try:
         html = response.read()
 
     soup = BeautifulSoup(html, 'html.parser')
+    # Set the master EPG link at the head of the file
     m3u_output = '#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"\n'
     found_count = 0
 
@@ -67,11 +68,14 @@ try:
             is_us = any(k in name_lower for k in us_keywords) or name_lower.endswith(" us") or name_lower.endswith(" usa")
             
             if is_us:
+                # Clean up local regional tag text strings
                 clean_name = re.split(r'id\s*:', raw_channel_name, flags=re.IGNORECASE)[0].strip()
+                clean_name = clean_name.replace("USA", "").replace("US", "").replace("HD", "")
                 clean_name = clean_name.rstrip('- ').rstrip('|').strip()
                 
                 processed_scraped = utils.default_process(clean_name)
-                best_match = process.extractOne(processed_scraped, db_names_list, score_cutoff=75)
+                # Lower cutoff score slightly to catch variations with regional suffixes
+                best_match = process.extractOne(processed_scraped, db_names_list, score_cutoff=60)
                 
                 tvg_id = ""
                 logo_url = ""
@@ -81,12 +85,14 @@ try:
                     tvg_id = us_db[matched_key]['id']
                     logo_url = us_db[matched_key]['logo']
 
-                # Force formatting tag injections explicitly
-                meta_string = f'#EXTINF:-1 group-title="USA"'
+                # Build line attribute segments explicitly
+                meta_string = '#EXTINF:-1'
                 if tvg_id:
                     meta_string += f' tvg-id="{tvg_id}"'
                 if logo_url:
                     meta_string += f' tvg-logo="{logo_url}"'
+                
+                meta_string += f' group-title="USA"'
                 
                 m3u_output += f"{meta_string},{clean_name}\n"
                 m3u_output += f"{base_start}{channel_id}{base_end}\n"
@@ -95,7 +101,7 @@ try:
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_output)
 
-    print(f"\nSuccess! Updated playlist format for {found_count} channels.")
+    print(f"\nSuccess! Fixed mapping tags for {found_count} channels.")
 
 except Exception as e:
     print(f"\nAn error occurred: {e}")
