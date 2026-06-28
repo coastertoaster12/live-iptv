@@ -7,7 +7,7 @@ directory_url = "https://dlhd.pk/24-7-channels.php"
 base_start = "https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D"
 base_end = "%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0"
 
-# Explicit 1:1 mapping: "Keyword snippet found in DaddyLive": "Exact filename in the repo"
+# Explicit 1:1 logo dictionary map
 manual_logo_map = {
     "abc us": "abc",
     "animal planet us": "animal-planet",
@@ -52,7 +52,14 @@ manual_logo_map = {
     "gsn us": "gsn"
 }
 
-print("Scraping with complete 1:1 user-requested layout...")
+# General keywords to make sure any other US channel passes the entry filter
+us_keywords = [
+    "usa", "us", "philly", "philadelphia", "bally", "tcm", "tlc", "travel", "vice", "wgn", 
+    "pix11", "turner", "cw", "mtv", "vh1", "animal planet", "oxygen", "tv land", "sec", "acc", 
+    "big ten", "cinemax", "starz", "showtime", "bravo", "amc", "paramount", "history", "discovery"
+]
+
+print("Scraping DaddyLive (All US Channels Intact, Selective 1:1 Logos)...")
 
 try:
     req = urllib.request.Request(directory_url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -74,20 +81,21 @@ try:
             raw_channel_name = a_tag.get_text(strip=True)
             name_lower = raw_channel_name.lower()
 
-            # Filter non-US networks
+            # Filter international blocks immediately
             if any(block in name_lower for block in strict_blocks):
                 continue
             if "espn" in name_lower and any(intl in name_lower for intl in espn_intl_blocks):
                 continue
 
-            # Check if this specific channel matches our dictionary list
-            is_target = any(k in name_lower for k in manual_logo_map.keys()) or "philadelphia" in name_lower or "philly" in name_lower
-            if not is_target:
+            # Ensure it's a US stream using the broad allowlist or suffix checks
+            is_us = any(k in name_lower for k in us_keywords) or any(k in name_lower for k in manual_logo_map.keys()) or name_lower.endswith(" us") or name_lower.endswith(" usa")
+            if not is_us:
                 continue
 
             display_name = re.split(r'id\s*:', raw_channel_name, flags=re.IGNORECASE)[0].strip()
             display_name = display_name.rstrip('- ').rstrip('|').strip()
 
+            # Match against the 1:1 map if available
             logo_file = ""
             for site_name, repo_name in manual_logo_map.items():
                 if site_name in name_lower:
@@ -96,7 +104,6 @@ try:
 
             meta_string = '#EXTINF:-1'
             if logo_file:
-                # Direct user-content endpoint referencing branch layout path
                 logo_url = f"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/{logo_file}-us.png"
                 meta_string += f' tvg-logo="{logo_url}"'
             
@@ -109,7 +116,7 @@ try:
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_output)
 
-    print(f"\nSuccess! Fixed list generated with {found_count} explicit target channels mapped.")
+    print(f"\nSuccess! Kept all {found_count} US channels with targeted logo injection.")
 
 except Exception as e:
     print(f"\nAn error occurred: {e}")
