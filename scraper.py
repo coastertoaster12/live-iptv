@@ -7,7 +7,7 @@ directory_url = "https://dlhd.pk/24-7-channels.php"
 base_start = "https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D"
 base_end = "%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0"
 
-print("Scraping index and running loose pattern matching layout...")
+print("Scraping DaddyLive (Strict US Filtering + Fixed Logo Matching)...")
 
 try:
     req = urllib.request.Request(directory_url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -18,8 +18,19 @@ try:
     m3u_output = '#EXTM3U\n'
     found_count = 0
 
-    strict_blocks = ["(uk)", " uk ", "uk:", "ca:", "canada", "sky sports", "bt sport", "super sport"]
+    # Strict international blocking rules
+    strict_blocks = ["(uk)", " uk ", "uk:", "ca:", "canada", "sky sports", "bt sport", "super sport", "viaplay", "optus", "stan sport"]
     espn_intl_blocks = [" af", " nl", " br", " ar", " mx", "paname", "carribean", "brazil", "holland"]
+    
+    # Baseline US keyword indicator block
+    us_keywords = [
+        "abc", "nbc", "cbs", "fox", "espn", "tnt", "tbs", "fx", "fxx", "disney", "nickelodeon", 
+        "nick", "cartoon", "discovery", "history", "a&e", "paramount", "comedy", "amc", "bravo", 
+        "cnn", "msnbc", "hbo", "showtime", "starz", "cinemax", "golf", "tennis", "nfl", "nba", 
+        "mlb", "nhl", "hallmark", "lifetime", "weather", "food", "hgtv", "usa", "philly", 
+        "philadelphia", "bally", "tcm", "tlc", "travel", "vice", "wgn", "pix11", "turner", 
+        "cw", "mtv", "vh1", "animal planet", "oxygen", "tv land", "sec", "acc", "big ten"
+    ]
 
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href']
@@ -29,27 +40,31 @@ try:
             raw_channel_name = a_tag.get_text(strip=True)
             name_lower = raw_channel_name.lower()
 
-            # Filter international and non-US feeds
+            # 1. STRICT FILTERING: Drop non-US channels immediately
             if any(block in name_lower for block in strict_blocks):
                 continue
             if "espn" in name_lower and any(intl in name_lower for intl in espn_intl_blocks):
                 continue
 
-            # Strip out trailing garbage annotations to clean up display text
+            is_us = any(k in name_lower for k in us_keywords) or name_lower.endswith(" us") or name_lower.endswith(" usa")
+            if not is_us:
+                continue
+
+            # Clean up trailing stream garbage for clean UI display
             display_name = re.split(r'id\s*:', raw_channel_name, flags=re.IGNORECASE)[0].strip()
             display_name = display_name.rstrip('- ').rstrip('|').strip()
 
-            # LOOSE LOGO MATCHING REGEX ENGINE:
-            # 1. Strip everything after common quality tags or regional marks
-            clean_token = re.split(r'\s+(fhd|hd|sd|720p|1080p|us|usa|ca|uk)\b', name_lower)[0]
-            # 2. Convert standard spaces and alternate symbol separators to uniform hyphens
-            clean_token = re.sub(r'[\s\._|/&]+', '-', clean_token)
-            # 3. Strip any weird remaining non-alphanumeric characters except basic hyphens
-            clean_token = re.sub(r'[^a-z0-9\-]', '', clean_token)
-            # 4. Strip extra hanging trailing dashes
-            name_clean = clean_token.strip('-')
+            # 2. STRICT LOGO STRING CLEANING
+            # Strip metadata suffixes out entirely before processing filenames
+            name_clean = name_lower
+            name_clean = re.sub(r'\s*(fhd|hd|sd|720p|1080p|us|usa|ca|uk|id\s*:.*)', '', name_clean).strip()
+            
+            # Standardize spacing and dashes
+            name_clean = re.sub(r'[\s._|/&]+', '-', name_clean)
+            name_clean = re.sub(r'[^a-z0-9\-]', '', name_clean)
+            name_clean = name_clean.strip('-')
 
-            # Special common edge cases to make matching flawless across the repository syntax
+            # Remap main network structural name shifts to fit the repo file names perfectly
             if name_clean == "cartoon-network":
                 name_clean = "cartoon"
             elif name_clean == "disney":
@@ -62,10 +77,10 @@ try:
                 name_clean = "tennis-channel"
             elif name_clean == "nba":
                 name_clean = "nba-tv"
-            elif name_clean == "ae":
-                name_clean = "a-e"
+            elif name_clean == "ae" or name_clean == "a-e":
+                name_clean = "ae"
 
-            # Construct the exact URL layout targeting the repository path
+            # Rebuild using the exact branch url you provided
             logo_url = f"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/{name_clean}-us.png"
 
             meta_string = f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="USA"'
@@ -76,7 +91,7 @@ try:
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_output)
 
-    print(f"\nSuccess! Generated playlist string tracking {found_count} loose-matched channel assets.")
+    print(f"\nSuccess! Found {found_count} US channels with matching logo assets assigned.")
 
 except Exception as e:
     print(f"\nAn error occurred: {e}")
