@@ -1,47 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1w6j9q4AiznpxVwR9z9p39w9W2p-X_EwM" group-title="USA",ABC USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1Z_kMOiT_lir1P3eXNZR4Zo9OfW3xjgWT" group-title="USA",ABC USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D51%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Antenna TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D283%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1j_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",A&E USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1LjrWS_gDOt9iyRfG5Ddi3Vz89Y4FIujw" group-title="USA",A&E USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D302%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1m_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",AMC USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1TwhPLVZeJGab4NmqRJYu_7vrkMR1bMsW" group-title="USA",AMC USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D303%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",Animal Planet
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D304%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",ACC Network USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D664%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",AXS TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D742%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1w6j9q4AiznpxVwR9z9p39w9W2p-X_EwM" group-title="USA",ABC NY USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1Z_kMOiT_lir1P3eXNZR4Zo9OfW3xjgWT" group-title="USA",ABC NY USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D766%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",BeIN SPORTS USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D425%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",BET USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D306%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1n_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Bravo USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1XQEZMatvunZbPFqw_rfwdw6uRDu0YJ3Z" group-title="USA",Bravo USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D307%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",BIG TEN Network (BTN USA)
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D397%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",CW PIX 11 USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D280%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1V_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",CBS USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1AxaWjapXlYPRfZJRbkiRzV54GuU1ZmQm" group-title="USA",CBS USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D52%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Court TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D281%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",CW USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D300%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",CNBC USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",CNBC USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D309%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1l_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Comedy Central
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1lw0f-13jjRIp1y1cKZy7aDuOb19Mnped" group-title="USA",Comedy Central
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D310%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1g_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Cartoon Network
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hpfN9BNE3ohZhI31pJke8Q7lxKZ6u0u4" group-title="USA",Cartoon Network
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D339%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1o_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",CNN USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1R8ETzKnuHZvCTgmHfckLEeFQwhjvR7D0" group-title="USA",CNN USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D345%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",Cinemax USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=17B2NZUtictz-FCTvMBtvd-joGyPxaTmq" group-title="USA",Cinemax USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D374%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1V_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",CBS Sports Network (CBSSN)
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1AxaWjapXlYPRfZJRbkiRzV54GuU1ZmQm" group-title="USA",CBS Sports Network (CBSSN)
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D308%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",COZI TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D748%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
@@ -53,123 +51,121 @@ https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2F
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D696%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Cooking Channel USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D697%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1V_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",CBSNY USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1AxaWjapXlYPRfZJRbkiRzV54GuU1ZmQm" group-title="USA",CBSNY USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D767%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1V_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",CBS Sports Golazo
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1AxaWjapXlYPRfZJRbkiRzV54GuU1ZmQm" group-title="USA",CBS Sports Golazo
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D910%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",CMTV Portugal
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D790%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1h_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Discovery Velocity CA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rERYcOa6OjI7S1mVFx2fL21EiRBKhjGe" group-title="USA",Discovery Velocity CA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D285%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1h_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Discovery Life Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rERYcOa6OjI7S1mVFx2fL21EiRBKhjGe" group-title="USA",Discovery Life Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D311%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1e_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Disney Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1loiJjLrwEHoZm9auNnd-xYssH3_4Kz8t" group-title="USA",Disney Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D312%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1h_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Discovery Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rERYcOa6OjI7S1mVFx2fL21EiRBKhjGe" group-title="USA",Discovery Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D313%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1h_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Discovery Family
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rERYcOa6OjI7S1mVFx2fL21EiRBKhjGe" group-title="USA",Discovery Family
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D657%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1e_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Disney XD
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1loiJjLrwEHoZm9auNnd-xYssH3_4Kz8t" group-title="USA",Disney XD
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D314%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1e_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Disney JR
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1loiJjLrwEHoZm9auNnd-xYssH3_4Kz8t" group-title="USA",Disney JR
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D652%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1Z_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",ESPN USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1DQP41Y8y_Yn4JstcDiFQpKrQ67cOnjSw" group-title="USA",ESPN USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D44%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1Z_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",ESPN2 USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1DQP41Y8y_Yn4JstcDiFQpKrQ67cOnjSw" group-title="USA",ESPN2 USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D45%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1Z_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",ESPNU USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1DQP41Y8y_Yn4JstcDiFQpKrQ67cOnjSw" group-title="USA",ESPNU USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D316%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1Z_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",ESPN Deportes
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1DQP41Y8y_Yn4JstcDiFQpKrQ67cOnjSw" group-title="USA",ESPN Deportes
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D375%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1Z_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",ESPNews
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1DQP41Y8y_Yn4JstcDiFQpKrQ67cOnjSw" group-title="USA",ESPNews
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D288%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",FUSE TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D279%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports 1 USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports 1 USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D39%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports 2 USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports 2 USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D758%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Soccer Plus
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Soccer Plus
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D756%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Cricket
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Cricket
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D369%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Deportes USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Deportes USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D643%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Sports 502 AU
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Sports 502 AU
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D820%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Sports 503 AU
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Sports 503 AU
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D821%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Sports 504 AU
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Sports 504 AU
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D822%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Sports 505 AU
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Sports 505 AU
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D823%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Sports 506 AU
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Sports 506 AU
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D824%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX Sports 507 AU
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX Sports 507 AU
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D825%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports 1 MX
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports 1 MX
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D929%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports 2 MX
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports 2 MX
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D930%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports 3 MX
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports 3 MX
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D931%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports Argentina
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports Argentina
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D787%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports 2 Argentina
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports 2 Argentina
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D788%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports 3 Argentina
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports 3 Argentina
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D789%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Sports Premium MX
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Sports Premium MX
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D830%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Business
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Business
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D297%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX HD Bulgaria
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX HD Bulgaria
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D483%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOX USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOX USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D54%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1c_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FX USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1i79e0aU3AOBJ8XA9zWaOTu1Qqrs0vByS" group-title="USA",FX USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D317%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1c_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FXX USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1i79e0aU3AOBJ8XA9zWaOTu1Qqrs0vByS" group-title="USA",FXX USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D298%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox News
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox News
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D347%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1c_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FX Movie Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1i79e0aU3AOBJ8XA9zWaOTu1Qqrs0vByS" group-title="USA",FX Movie Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D381%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",FOXNY USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",FOXNY USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D768%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Fox Weather Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KjqQyuST0nkDFYfixth_UQZdYP32SKQr" group-title="USA",Fox Weather Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D775%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1t_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",GOLF Channel USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1SMjmCFO8MaIA4Sjm09WmSOgZWFJn-RWa" group-title="USA",GOLF Channel USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D318%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Galavisi贸n USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D743%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1z_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",The Hallmark Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1A2LX_W3rXsnO_jQzQPdxz0ZOTGXCO52X" group-title="USA",The Hallmark Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D320%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1z_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Hallmark Movies & Mysterie
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1A2LX_W3rXsnO_jQzQPdxz0ZOTGXCO52X" group-title="USA",Hallmark Movies & Mysterie
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D296%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Heroes & Icons (H&I) USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D282%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1q_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KQ8hMd8zWsbwGhyXxbiHqRWXMk2auhtN" group-title="USA",HBO USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D321%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1q_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO2 USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KQ8hMd8zWsbwGhyXxbiHqRWXMk2auhtN" group-title="USA",HBO2 USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D689%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1l_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO Comedy USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1lw0f-13jjRIp1y1cKZy7aDuOb19Mnped" group-title="USA",HBO Comedy USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D690%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1q_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO Family USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KQ8hMd8zWsbwGhyXxbiHqRWXMk2auhtN" group-title="USA",HBO Family USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D691%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1q_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO Latino USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KQ8hMd8zWsbwGhyXxbiHqRWXMk2auhtN" group-title="USA",HBO Latino USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D692%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1q_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO Signature USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KQ8hMd8zWsbwGhyXxbiHqRWXMk2auhtN" group-title="USA",HBO Signature USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D693%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1q_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO Zone USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KQ8hMd8zWsbwGhyXxbiHqRWXMk2auhtN" group-title="USA",HBO Zone USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D694%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1q_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HBO Poland
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1KQ8hMd8zWsbwGhyXxbiHqRWXMk2auhtN" group-title="USA",HBO Poland
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D569%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1i_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",History USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ehkQXPY8JXM5BoKKSJkOtP5YIEqIGGU1" group-title="USA",History USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D322%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/23_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",HGTV
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=16vQUsLnB_nsHEh8sf4MjQu77ALrEKTk5" group-title="USA",HGTV
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D382%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1h_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Investigation Discovery (ID USA)
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rERYcOa6OjI7S1mVFx2fL21EiRBKhjGe" group-title="USA",Investigation Discovery (ID USA)
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D324%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",ION USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D325%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
@@ -177,81 +173,75 @@ https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2F
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D656%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Logo TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D849%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/20_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Lifetime Network
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rut0er0raSSB9kszmah9ztApX-c5_A9t" group-title="USA",Lifetime Network
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D326%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/20_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Lifetime Movies Network
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rut0er0raSSB9kszmah9ztApX-c5_A9t" group-title="USA",Lifetime Movies Network
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D389%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1t_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Movistar Golf Spain
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1SMjmCFO8MaIA4Sjm09WmSOgZWFJn-RWa" group-title="USA",Movistar Golf Spain
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D528%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",MSG USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D765%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",MSNBC
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=11k3Xe99Xdec3-y6AS1S7Q0WdmbsxURm7" group-title="USA",MSNBC
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D327%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",MTV UK
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D367%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",MTV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D371%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Racer TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D646%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1x_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",MLB Network USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1vRawPFE6QPdNDP6iYorUgP-f52JpVbkO" group-title="USA",MLB Network USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D399%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",MASN USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D829%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",MY9TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D654%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1h_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rERYcOa6OjI7S1mVFx2fL21EiRBKhjGe" group-title="USA",Discovery Turbo
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D661%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",METV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D662%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",MTV Denmark
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D806%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",MGM+ USA / Epix
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D791%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBC10 Philadelphia
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBC10 Philadelphia
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D277%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1y_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",NHL Network USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1yxdu-orTm2wokPuT8uJVdqFwrU-mzwjm" group-title="USA",NHL Network USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D663%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1v_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",NFL RedZone
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1yVlZpAdc_aVMVtUdZyo1gugQbksqkp1S" group-title="USA",NFL RedZone
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D667%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1f_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Nick Music
+#EXTINF:-1 group-title="USA",Nick Music
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D666%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",NESN USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D762%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBC USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBC USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D53%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1w_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",NBA TV USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1kDd3Y14RIQlWxQB3xzKqKC5RobSkcfyU" group-title="USA",NBA TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D404%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBC Sports Philadelphia
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBC Sports Philadelphia
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D777%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1v_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",NFL Network
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1yVlZpAdc_aVMVtUdZyo1gugQbksqkp1S" group-title="USA",NFL Network
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D405%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBC Sports Bay Area
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBC Sports Bay Area
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D753%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBC Sports Boston
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBC Sports Boston
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D754%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBC Sports California
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBC Sports California
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D755%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBCNY USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBCNY USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D769%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",NewsNation USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D292%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1f_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",NICK JR
+#EXTINF:-1 group-title="USA",NICK JR
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D329%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1f_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",NICK
+#EXTINF:-1 group-title="USA",NICK
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D330%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1f_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Nicktoons
+#EXTINF:-1 group-title="USA",Nicktoons
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D649%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Newsmax USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D613%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Nat Geo Wild USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D745%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1XgXmJ_mX27m-x_v2WfB4WpWzV9w_X_Em" group-title="USA",NBC Universo
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1hMLOFl5J3E6n0bP7DH-urDYurkKL1s2-" group-title="USA",NBC Universo
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D845%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",Oxygen True Crime
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D332%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Outdoor Channel USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D848%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1k_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Paramount Network
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1Q16mOTHF_4UA0Xzu2gMNAwv7HeHuPER1" group-title="USA",Paramount Network
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D334%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",POP TV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D653%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
@@ -259,121 +249,115 @@ https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2F
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D287%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",PBS USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D210%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1u_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Sky Sport Tennis Italy
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ty3KRI7EAOimScN79VD0hcEtZ44PibWF" group-title="USA",Sky Sport Tennis Italy
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D576%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Cinema
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Cinema
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D970%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1l_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Comedy
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1lw0f-13jjRIp1y1cKZy7aDuOb19Mnped" group-title="USA",Starz Comedy
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D971%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Edge
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Edge
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D972%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz In Black
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz In Black
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D973%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Kids & Family
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Kids & Family
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D974%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Encore
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Encore
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D975%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Encore Action
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Encore Action
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D976%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Encore Black
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Encore Black
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D977%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Encore Classic
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Encore Classic
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D978%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Encore Family
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Encore Family
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D979%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Encore Suspense
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Encore Suspense
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D980%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz Encore Westerns
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz Encore Westerns
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D981%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",Spectrum SportsNet USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D982%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",MTV Poland
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D990%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",SEC Network USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D385%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1t_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",SuperSport Golf
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1SMjmCFO8MaIA4Sjm09WmSOgZWFJn-RWa" group-title="USA",SuperSport Golf
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D422%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1u_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",SuperSport Tennis
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ty3KRI7EAOimScN79VD0hcEtZ44PibWF" group-title="USA",SuperSport Tennis
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D423%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1t_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Sport KLUB Golf Croatia
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1SMjmCFO8MaIA4Sjm09WmSOgZWFJn-RWa" group-title="USA",Sport KLUB Golf Croatia
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D710%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1l_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Sky Cinema Comedy UK
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1lw0f-13jjRIp1y1cKZy7aDuOb19Mnped" group-title="USA",Sky Cinema Comedy UK
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D678%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime SHOxBET USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime SHOxBET USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D695%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1l_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Sky Cinema Comedy Italy
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1lw0f-13jjRIp1y1cKZy7aDuOb19Mnped" group-title="USA",Sky Cinema Comedy Italy
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D862%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",CW Philly
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D866%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",StarzPlay CricLife 1 HD
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",StarzPlay CricLife 1 HD
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D284%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1l_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Sky Comedy UK
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1lw0f-13jjRIp1y1cKZy7aDuOb19Mnped" group-title="USA",Sky Comedy UK
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D684%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1i_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Sky History
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ehkQXPY8JXM5BoKKSJkOtP5YIEqIGGU1" group-title="USA",Sky History
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D686%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D333%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1s_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Starz
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1rDwXXRaOQq9xi8uew-G1HMSdg2vVDIYF" group-title="USA",Starz
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D335%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",SYFY USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D373%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime 2 USA (SHO2) USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime 2 USA (SHO2) USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D792%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime Showcase USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime Showcase USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D793%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime Extreme USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime Extreme USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D794%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime Family Zone (SHO Family Zone) USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime Family Zone (SHO Family Zone) USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D795%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime Next (SHO Next) USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime Next (SHO Next) USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D796%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1r_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Showtime Women USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1GzGgN0Cp0r8b7-pEmr7PKnnETR6szw8S" group-title="USA",Showtime Women USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D797%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT Sports 1 UK
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT Sports 1 UK
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D31%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT Sports 2 UK
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT Sports 2 UK
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D32%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT Sports 3 UK
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT Sports 3 UK
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D33%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT Sports 4 UK
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT Sports 4 UK
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D34%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT Brasil
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT Brasil
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D87%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT Sports Argentina
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT Sports Argentina
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D388%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT Sports HD Chile
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT Sports HD Chile
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D642%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1u_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Tennis Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ty3KRI7EAOimScN79VD0hcEtZ44PibWF" group-title="USA",Tennis Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D40%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",TUDN USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D66%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1b_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TBS USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1Gbd1Y9UIkfWFaZVdN-ZkvwhR4EO9MiKd" group-title="USA",TBS USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D336%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",TLC
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D337%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1a_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TNT USA
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1F8wXWFhti6wW6XtroiXfD4vZ9OJ06waf" group-title="USA",TNT USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D338%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",Travel Channel
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D340%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",TruTV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D341%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",TCM USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D644%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",TMC Channel USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D698%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/22_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",The Food Network
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1Fd1ByGm0zGHFOeObAF5NCVXnrquPYRzV" group-title="USA",The Food Network
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D384%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/21_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",The Weather Channel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1YIinysLG3CzWVLDtBCL8ifv8o55NkRUk" group-title="USA",The Weather Channel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D394%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1f_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TeenNick
+#EXTINF:-1 group-title="USA",TeenNick
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D650%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",TV ONE USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D660%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1u_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",TV4 Tennis
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ty3KRI7EAOimScN79VD0hcEtZ44PibWF" group-title="USA",TV4 Tennis
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D701%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1u_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Tennis+ 10
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ty3KRI7EAOimScN79VD0hcEtZ44PibWF" group-title="USA",Tennis+ 10
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D709%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1u_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Tennis+ 12
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1ty3KRI7EAOimScN79VD0hcEtZ44PibWF" group-title="USA",Tennis+ 12
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D711%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",USA Network
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D343%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
@@ -381,13 +365,11 @@ https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2F
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D668%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",VH1 USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D344%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="USA",VICE TV
-https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D659%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",WETV USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D655%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",YES Network USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D763%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1l_w9w9p9XzX-m_v2WfB4WpWzV9w_X_Em" group-title="USA",Yes Movies Comedy Israel
+#EXTINF:-1 tvg-logo="https://docs.google.com/uc?export=download&id=1lw0f-13jjRIp1y1cKZy7aDuOb19Mnped" group-title="USA",Yes Movies Comedy Israel
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D545%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="USA",5 USA
 https://my-easy-proxy-64s3.onrender.com/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmy-easy-proxy-64s3.onrender.com%2Fextractor%2Fvideo.m3u8%3Fhost%3Ddlstreams%26d%3Dhttps%253A%252F%252Fdlhd.pk%252Fwatch.php%253Fid%253D360%26redirect_stream%3Dtrue&h_User-Agent=Mozilla/5.0
